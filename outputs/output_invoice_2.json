@@ -1,0 +1,15 @@
+{
+    "invoice_number": "INV002",
+    "invoice_date": "20-06-2026",
+    "due_date": "28-06-2026",
+    "billed_by": "Tech World",
+    "billed_to": "Priya Singh",
+    "line_items": null,
+    "subtotal": 3000.0,
+    "discount": null,
+    "tax_or_gst": 300.0,
+    "total_amount": 3300.0,
+    "currency": "INR",
+    "payment_method": "Cash",
+    "notes": "Paid partially"
+}

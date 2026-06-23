@@ -1,0 +1,21 @@
+{
+    "invoice_number": "INV003",
+    "invoice_date": "2026-06-15",
+    "due_date": "2026-06-25",
+    "billed_by": "Smart Electronics",
+    "billed_to": "Amit Verma",
+    "line_items": [
+        {
+            "item": "Laptop Purchase",
+            "amount": 45000,
+            "currency": "\u20b9"
+        }
+    ],
+    "subtotal": 45000,
+    "discount": 2000,
+    "tax_or_gst": 3000,
+    "total_amount": 46000,
+    "currency": "INR",
+    "payment_method": "Bank Transfer",
+    "notes": "Warranty included"
+}

@@ -1,0 +1,20 @@
+{
+    "invoice_number": "INV001",
+    "invoice_date": "2026-06-23",
+    "due_date": "2026-06-30",
+    "billed_by": "Apple Solutions",
+    "billed_to": "Rahul Sharma",
+    "line_items": [
+        {
+            "item": "Website Design",
+            "amount": 5000
+        }
+    ],
+    "subtotal": 5000,
+    "discount": 500,
+    "tax_or_gst": 450,
+    "total_amount": 4950,
+    "currency": "INR",
+    "payment_method": "UPI",
+    "notes": "Thank you"
+}
